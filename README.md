@@ -1,1 +1,0 @@
-# Svelte - Movie Search
